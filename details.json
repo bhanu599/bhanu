@@ -1,0 +1,63 @@
+{
+	"details":{
+		"image":"profileicon.png",
+		"name":"bhanu",
+		"phoneno":"6301460398",
+		"email":"mererub786@gmail.com",
+		"address":"vignan's nirula college,guntur"
+	},
+	"career":{
+		"careerobject":" A hospitable, presentable and hard working team player who possesses a high standard of personal appearance and hygiene. Always focused on making sure that every guest is served to the highest possible standards by having an outgoing, polite and professional attitude towards all patrons. "
+		      },
+
+		"educationalqualification":[
+			{
+			"qualification":"B.TECH",
+			"institute":"vignan's nirula college",
+			"passingyear":"2016-2020",
+			"percentage":"80%"
+		},
+		{
+			"qualification":"intermediate",
+			"institute":"SRI CHAITHYANA",
+			"passingyear":"2014-2016",
+			"percentage":"90.4%"
+		},
+		{
+			"qualification":"SSC",
+			"institute":"M.G.H SCHOOL",
+			"passingyear":"2013-2014",
+			"percentage":"87.0%"
+		}
+
+
+],
+"skills":[
+	{
+	"title":"programming languages",
+	"info":["c","c++","java","ruby","phython"]
+},
+{
+    "title":"database",
+    "info":["oracle","sql","mysql"]
+},
+{
+    "title":"operating system",
+    "info":["unix","linux","windows","mac"]
+}
+],
+"achievements":[
+{  
+	"title":"achievements information",
+	"information":["1st prize in sports"]
+},
+{
+	"information":["first prize in gd"]
+},
+{
+
+   "information":["second prize in ppt"]
+}
+]
+}
+
